@@ -4,7 +4,7 @@ A professional portfolio website showcasing the expertise of George Wanjohi, a S
 
 ## 🚀 Live Demo
 
-**GitHub Pages URL**: [https://kkweli.github.io/portfolio](https://kkweli.github.io/portfolio)
+**GitHub Pages URL**: [https://kkweli.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/](https://kkweli.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
 
 ## 📋 Project Overview
 
@@ -91,7 +91,7 @@ kkweli-html5-portfolio/
    - Click **Save**
 
 4. **Access Your Website**
-   - Your site will be available at: `https://YOUR_USERNAME.github.io/portfolio`
+   - Your site will be available at: `https://YOUR_USERNAME.github.io/REPOSITORY_NAME`
    - The build process typically takes 1-2 minutes
 
 ### Option 2: Local Development
@@ -223,5 +223,3 @@ This project is for personal portfolio use. All rights reserved.
 ---
 
 **Built with ❤️ using pure HTML5, CSS, and JavaScript**
-
-*Last updated: 2024*
